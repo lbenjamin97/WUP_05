@@ -21,6 +21,8 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
+first we need to do is seperate all the people out . we have the ones thats just females, then we are going to look at the subgroup.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->

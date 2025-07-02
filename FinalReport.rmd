@@ -59,6 +59,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+three fifths of the women who got aids had taken the drug which tells us that the drug is ineffective & preventing aids.
 
 ## Inferential Results
 
